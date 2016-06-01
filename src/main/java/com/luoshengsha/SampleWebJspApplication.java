@@ -9,4 +9,4 @@ public class SampleWebJspApplication {
 	public static void main(String[] args) throws Exception {
 		SpringApplication.run(SampleWebJspApplication.class, args);
 	}
-}
+}  
